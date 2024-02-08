@@ -2,8 +2,10 @@ body{
 margin:0;
 padding:0;
 }
-
-  h1 {
-    color: navy;
-    margin-left: 20px;
+h1{
+  color: #000000;
+}
+  h2 {
+    color: #ff0000;
+    
   }
